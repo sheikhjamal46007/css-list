@@ -1,0 +1,18 @@
+body{
+	background-color:yellow
+}
+
+ul{
+	color:blue;
+	list-style-type:circle;
+	list-style-type:square;
+	list-style-type:outside;
+	list-style-image:url("..//image/simily.jpg");
+}
+ol{
+	color:green;
+	list-style-type:upper-roman;
+	list-style-type:inside;
+		
+}
+
